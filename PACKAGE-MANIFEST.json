@@ -1,6 +1,6 @@
 {
-  "files": 35,
-  "bytes": 180244,
+  "files": 41,
+  "bytes": 197698,
   "entries": [
     {
       "path": ".gitignore",
@@ -18,9 +18,14 @@
       "sha256": "1ca6d0df76f86003cbb08bddba6ce57d22585814926946953661a9e65c9638c1"
     },
     {
+      "path": "apps/feishu-codex-local/README.en.md",
+      "bytes": 2301,
+      "sha256": "505ed0626f9950090a2a45a5d34cbf65befef1bf066988f16a50eff93c29e9c7"
+    },
+    {
       "path": "apps/feishu-codex-local/README.md",
-      "bytes": 1029,
-      "sha256": "9cd0958d14142b530b5ec0aa66adc0cb35a2f74645b680f6d5da1bba202dfc84"
+      "bytes": 2277,
+      "sha256": "cab33de0557782e409e5b5639f9931a69d81eb63904051f67d441d19431ab847"
     },
     {
       "path": "apps/feishu-codex-local/scripts/check-status.ps1",
@@ -98,6 +103,11 @@
       "sha256": "94367e2974875b83cf1ec22fe6b7f249d984c3c0773d8eb3e6eed9494a8fe092"
     },
     {
+      "path": "apps/shopify-order-bot/.env.example",
+      "bytes": 160,
+      "sha256": "6d034ccc87a07a8b1bd4643f4ac0e9452c8061aef42c7edd1347e71f16dafe9c"
+    },
+    {
       "path": "apps/shopify-order-bot/.gitignore",
       "bytes": 127,
       "sha256": "d3a7ac0d2de52f67ae4d335e4ffc975fb9146c918672d13a4b2731a9c1844e0f"
@@ -128,9 +138,14 @@
       "sha256": "da1f918695e5a4b1dc911e858e720e5320e7f760411543dfcbbca2480ea97178"
     },
     {
+      "path": "apps/shopify-order-bot/README.en.md",
+      "bytes": 2288,
+      "sha256": "fbaca21cf79d3b2502c69003043c8a6d8fa2d8b87e8f50f26ac470e237640302"
+    },
+    {
       "path": "apps/shopify-order-bot/README.md",
-      "bytes": 8187,
-      "sha256": "77e83a70cbc68e8d56177d40d89ecd7b16dfd1e5522744be4beddf34d113d7b4"
+      "bytes": 2235,
+      "sha256": "a78f59ca3cdc895c25b933b3d61e86a934fa5cde599874920905d86f16fc352b"
     },
     {
       "path": "apps/shopify-order-bot/requirements.txt",
@@ -144,8 +159,8 @@
     },
     {
       "path": "apps/shopify-order-bot/up_promote_affiliate_rpa.py",
-      "bytes": 20711,
-      "sha256": "e0ab98ced727f653f839e5871be403e9525d0dc2f7e154e87d71a242dccf7238"
+      "bytes": 20707,
+      "sha256": "deb32cffc2b37b176580be9d911743ab8472fd4b3c03e05b024e6b66a206d142"
     },
     {
       "path": "apps/shopify-order-bot/UPPROMOTE_AFFILIATE_RUNBOOK.md",
@@ -158,9 +173,24 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 5240,
+      "sha256": "13ca47c461f1ef3f3bdd7d8a2bc695e39a3964dc4562627248f21ff38292dfd6"
+    },
+    {
       "path": "README.md",
-      "bytes": 1106,
-      "sha256": "9f3e3c983ccac00b737a8ad6151fba2ac9bfac67bd42dd0fa8a0b8b367aae0b0"
+      "bytes": 5148,
+      "sha256": "0d534fae3ff71bcbfb7bbc2bca84f7fa3424cb1c98d07484def9258a196ec379"
+    },
+    {
+      "path": "skill/varla-kol-feishu-order-writeback-skill/README.en.md",
+      "bytes": 4060,
+      "sha256": "1df1b07b417169a9dc1f28af28de5eefea05908eb600442d0ecb38cae3b33f44"
+    },
+    {
+      "path": "skill/varla-kol-feishu-order-writeback-skill/README.md",
+      "bytes": 4071,
+      "sha256": "4b691be319010e4d681673e777fa3ce526dc3c2af8af5e0f7b9270e12df96020"
     },
     {
       "path": "skill/varla-kol-feishu-order-writeback-skill/SKILL.md",
