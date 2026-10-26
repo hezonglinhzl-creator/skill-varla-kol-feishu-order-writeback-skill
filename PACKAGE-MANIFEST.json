@@ -1,0 +1,181 @@
+{
+  "files": 35,
+  "bytes": 180244,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "apps/feishu-codex-local/agents/openai.yaml",
+      "bytes": 261,
+      "sha256": "2ea1766cf5c55a6af184d6b142584e2f5a00bc3796f0c168f676d1fd6c685af3"
+    },
+    {
+      "path": "apps/feishu-codex-local/examples/sample_native_tables.md",
+      "bytes": 449,
+      "sha256": "1ca6d0df76f86003cbb08bddba6ce57d22585814926946953661a9e65c9638c1"
+    },
+    {
+      "path": "apps/feishu-codex-local/README.md",
+      "bytes": 1029,
+      "sha256": "9cd0958d14142b530b5ec0aa66adc0cb35a2f74645b680f6d5da1bba202dfc84"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/check-status.ps1",
+      "bytes": 843,
+      "sha256": "81c446a5fd3678654656eb7d37acc58ef6641e14b452ee5780acceb1100e894e"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/common.ps1",
+      "bytes": 1279,
+      "sha256": "f113707b7f9ede6ed1327e4b5f0a9d7a74ab6ce3ccc1dfd72f4f3bc96d34b1ac"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/configure-bridge.ps1",
+      "bytes": 1717,
+      "sha256": "b61274c57683ada754bf16f406909a0608efaa582fc5e35affe4686405f2bda5"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/feishu_docs.py",
+      "bytes": 13211,
+      "sha256": "d8a49e91397f7484e584e7758c783745b0239aa61846b21b26d491c7179d532e"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/feishu_import_markdown_tables.py",
+      "bytes": 8034,
+      "sha256": "f215be8bb85eaa98abf63df7681973e00a32c6656a363d088aa5c4b856f504b7"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/install-windows.ps1",
+      "bytes": 1259,
+      "sha256": "489851e702a00f5459d124c7049a0c584b5416fafee430d578858aae4653973a"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/start-bridge.ps1",
+      "bytes": 875,
+      "sha256": "1e90a1b0f9d4658651941da01358c361ad7d2f2a6cd2306f21bdfb09ae53386c"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/verify_native_tables.py",
+      "bytes": 2811,
+      "sha256": "81a0977b1a3146ae407d90e5e99cd6166eb67bab4a18054a30b897284dcb8ce6"
+    },
+    {
+      "path": "apps/feishu-codex-local/SKILL.md",
+      "bytes": 2512,
+      "sha256": "5dad5dee3e1cce0573b53e7ddb81e41e5a88068d2c88bc584013f47d8c490633"
+    },
+    {
+      "path": "apps/feishu-codex-local/启动.bat",
+      "bytes": 100,
+      "sha256": "d18b048ba5b7afc50bd56b7faf0603804ecf1b94b724d91d2a91fbbc43f8eff3"
+    },
+    {
+      "path": "apps/feishu-codex-local/安装.bat",
+      "bytes": 103,
+      "sha256": "3ad888065c0de095f09272afcc05ad07927633f70e4b8357ad6ae3a466c8f6b0"
+    },
+    {
+      "path": "apps/feishu-codex-local/检查OpenAPI.bat",
+      "bytes": 233,
+      "sha256": "5d1b84454a572d44c203aedf7c8cd68cb5b19f9bc4776cac9fd317351a0ecc5f"
+    },
+    {
+      "path": "apps/feishu-codex-local/检查状态.bat",
+      "bytes": 100,
+      "sha256": "e9effb75baad807e53502eeecec5e0a8736621a50ef4cc3e95f5001bc6f0939a"
+    },
+    {
+      "path": "apps/feishu-codex-local/配置.bat",
+      "bytes": 104,
+      "sha256": "3e22f770585df9566418a6cece0bee3090052f39a895587758d95c6a939ae111"
+    },
+    {
+      "path": "apps/feishu-codex-local/配置OpenAPI.bat",
+      "bytes": 241,
+      "sha256": "94367e2974875b83cf1ec22fe6b7f249d984c3c0773d8eb3e6eed9494a8fe092"
+    },
+    {
+      "path": "apps/shopify-order-bot/.gitignore",
+      "bytes": 127,
+      "sha256": "d3a7ac0d2de52f67ae4d335e4ffc975fb9146c918672d13a4b2731a9c1844e0f"
+    },
+    {
+      "path": "apps/shopify-order-bot/__init__.py",
+      "bytes": 54,
+      "sha256": "cdda2fa904a887e0a18a8ed8c76f05c4223741ef48a8d6ea691ea3bf1c936715"
+    },
+    {
+      "path": "apps/shopify-order-bot/adspower_client.py",
+      "bytes": 6636,
+      "sha256": "7b7e8aadedbe5c1cc89e0aa6627c0dd975ec88a1cf47da5e53291d203bd3859b"
+    },
+    {
+      "path": "apps/shopify-order-bot/config.py",
+      "bytes": 3670,
+      "sha256": "4bddb3f363483fabd12df8fa5463a22f3b734be43ef5d8c6500ed344fcfa3c13"
+    },
+    {
+      "path": "apps/shopify-order-bot/excel_reader.py",
+      "bytes": 15046,
+      "sha256": "4775fa8a66d2531e3a4ddae6226b8aa16787cc0b729f8117f4338536f5c542a5"
+    },
+    {
+      "path": "apps/shopify-order-bot/main.py",
+      "bytes": 9537,
+      "sha256": "da1f918695e5a4b1dc911e858e720e5320e7f760411543dfcbbca2480ea97178"
+    },
+    {
+      "path": "apps/shopify-order-bot/README.md",
+      "bytes": 8187,
+      "sha256": "77e83a70cbc68e8d56177d40d89ecd7b16dfd1e5522744be4beddf34d113d7b4"
+    },
+    {
+      "path": "apps/shopify-order-bot/requirements.txt",
+      "bytes": 80,
+      "sha256": "96809e680d2c50f216d18ef801c411b9a02ce17a4a4081059b2855706ccb4386"
+    },
+    {
+      "path": "apps/shopify-order-bot/shopify_browser.py",
+      "bytes": 74859,
+      "sha256": "0a08d6c9759601671e4ee2ae4bf6ec599dacdfc983aecf14bd3c141497491178"
+    },
+    {
+      "path": "apps/shopify-order-bot/up_promote_affiliate_rpa.py",
+      "bytes": 20711,
+      "sha256": "e0ab98ced727f653f839e5871be403e9525d0dc2f7e154e87d71a242dccf7238"
+    },
+    {
+      "path": "apps/shopify-order-bot/UPPROMOTE_AFFILIATE_RUNBOOK.md",
+      "bytes": 1482,
+      "sha256": "50af474c9fc12825497fadd850940a6a1ea0ee556cf3b0ec6ca6a0be0e625740"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1106,
+      "sha256": "9f3e3c983ccac00b737a8ad6151fba2ac9bfac67bd42dd0fa8a0b8b367aae0b0"
+    },
+    {
+      "path": "skill/varla-kol-feishu-order-writeback-skill/SKILL.md",
+      "bytes": 2215,
+      "sha256": "87856321783b22ba97482e332e37a323e5e79f498c4d84bc1651d39c5a9f3b7f"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
