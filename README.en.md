@@ -26,6 +26,8 @@ Write verified Shopify order numbers and KOL codes/Impact IDs to the specified F
 2. Right-click the downloaded ZIP and choose **Extract All**. Open the extracted folder containing this README.
 3. Keep the whole folder together. Start the program first using the next section, then install/use its skill.
 
+Installation also writes PACKAGE-LOCATION.json beside the installed SKILL.md, mapping the bundled programs to their actual extracted directories. Keep the full extracted folder; rerun the installer after moving it. Existing Skill content is preserved by default while paths are refreshed.
+
 ## 1. Set up the program first
 
 ### Local Feishu OpenAPI Toolkit (`feishu-codex-local`)

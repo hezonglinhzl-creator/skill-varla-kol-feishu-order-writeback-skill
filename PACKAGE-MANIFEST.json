@@ -1,11 +1,11 @@
 {
   "files": 41,
-  "bytes": 197698,
+  "bytes": 200987,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "apps/feishu-codex-local/agents/openai.yaml",
@@ -169,18 +169,18 @@
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 5240,
-      "sha256": "13ca47c461f1ef3f3bdd7d8a2bc695e39a3964dc4562627248f21ff38292dfd6"
+      "bytes": 5530,
+      "sha256": "bd22de3e78572f96175fb460df739047b9c156a0be10242833e8450ace8a1bf6"
     },
     {
       "path": "README.md",
-      "bytes": 5148,
-      "sha256": "0d534fae3ff71bcbfb7bbc2bca84f7fa3424cb1c98d07484def9258a196ec379"
+      "bytes": 5384,
+      "sha256": "3a3cbe31c5b26212d00b678f690bb3e1f9c90101a443c8dcb91f82d4eb593ba7"
     },
     {
       "path": "skill/varla-kol-feishu-order-writeback-skill/README.en.md",
@@ -194,8 +194,8 @@
     },
     {
       "path": "skill/varla-kol-feishu-order-writeback-skill/SKILL.md",
-      "bytes": 2215,
-      "sha256": "87856321783b22ba97482e332e37a323e5e79f498c4d84bc1651d39c5a9f3b7f"
+      "bytes": 3260,
+      "sha256": "bc175891e70b8b0b9121c83c16025fef26fd7314d81755764e38b232927d016a"
     },
     {
       "path": "安装Skill.cmd",
